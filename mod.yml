@@ -10,6 +10,12 @@ assets:
   package: kh2_sixth
   source:
   - name: obj\W_EX010_N0.mdlx
+- name: remastered\obj\W_EX010_N0.mdlx\-0.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\W_EX010_N0.mdlx\-0.dds
 - name: remastered\obj\W_EX010_N0.a.us\-0.dds
   method: copy
   platform: pc
