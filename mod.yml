@@ -1,0 +1,42 @@
+title: DarkSaber (KH2PCPATCH)
+originalAuthor: Unknown
+description: This is an automatically generated metadata for this KH2PCPATCH Modification.
+game: kh2
+dependencies: 
+assets:
+- name: obj\W_EX010_N0.mdlx
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: obj\W_EX010_N0.mdlx
+- name: remastered\obj\W_EX010_N0.a.us\-0.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\W_EX010_N0.a.us\-0.dds
+- name: remastered\obj\W_EX010_N0.a.us\-1.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\W_EX010_N0.a.us\-1.dds
+- name: remastered\obj\W_EX010_N0.a.us\-2.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\W_EX010_N0.a.us\-2.dds
+- name: remastered\obj\W_EX010_N0.a.us\-3.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\W_EX010_N0.a.us\-3.dds
+- name: remastered\obj\W_EX010_N0.a.us\-4.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\W_EX010_N0.a.us\-4.dds
